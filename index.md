@@ -1,5 +1,2 @@
----
-title: Welcome to my blog
----
-
-author:Gongyi Zhuo
+# 有趣的地方
+*不要问世界将会是什么形状，要问我们的心是什么形状*
